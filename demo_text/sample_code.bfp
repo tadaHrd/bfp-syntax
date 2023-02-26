@@ -1,0 +1,9 @@
+>   ; Move forwards
+<   ; Move backward
++   ; Increment current cell
+-   ; Decrement current cell
+,   ; Get input and store it inside the current cell
+.   ; Print the current cell as a character
+[-] ; Decrement current cell until it is 0
+p "Hello, world!" ; Print "Hello, world!"
+"hello world"     ; Store "hello world"

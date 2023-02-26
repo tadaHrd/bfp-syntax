@@ -1,50 +1,50 @@
 {
-    "$schema": "https://raw.githubusercontent.com/martinring/tmlanguage/master/tmlanguage.json",
-    "scopeName": "source.bfp",
-    "name": "Brainfuck+",
-    "comment": "Syntax highlighting support for Brainfuck+.",
-    "fileTypes": [
-        "bfp"
-    ],
-    "patterns": [{
-            "match": "\\[|\\]",
-            "name": "keyword.control.bfp"
-        },
-        {
-            "match": "<|>",
-            "name": "storage.type.bfp"
-        },
-        {
-            "match": "\\+|-",
-            "name": "keyword.operator.arithmetic.bfp"
-        },
-        {
-            "match": "\\.|,",
-            "name": "entity.name.function.io.bfp"
-        },
-        {
-            "name": "string.quoted.double.bfp",
-            "begin": "\"",
-            "end": "\""
-        },
+	"$schema": "https://raw.githubusercontent.com/martinring/tmlanguage/master/tmlanguage.json",
+	"scopeName": "source.bfp",
+	"name": "Brainfuck+",
+	"comment": "Syntax highlighting support for Brainfuck+.",
+	"fileTypes": [
+		"bfp"
+	],
+	"patterns": [{
+			"match": "\\[|\\]",
+			"name": "keyword.control.bfp"
+		},
+		{
+			"match": "<|>",
+			"name": "storage.type.bfp"
+		},
+		{
+			"match": "\\+|-",
+			"name": "keyword.operator.arithmetic.bfp"
+		},
+		{
+			"match": "\\.|,",
+			"name": "entity.name.function.io.bfp"
+		},
+		{
+			"name": "string.quoted.double.bfp",
+			"begin": "\"",
+			"end": "\""
+		},
 		{
 			"match": "\\bp\\b",
 			"name": "keyword.control.bfp"
 		},
-        {
-            "name": "comment.bfp",
-            "begin": ";",
-            "end": "(?<!\\S)$",
-            "captures": {
-                "0": {
-                    "name": "punctuation.definition.comment.bfp",
-                    "patterns": [
-                        {
-                            "match": ";"
-                        }
-                    ]
-                }
-            }
-        }
-    ]
+		{
+			"name": "comment.bfp",
+			"begin": ";",
+			"end": "(?<!\\S)$",
+			"captures": {
+				"0": {
+					"name": "punctuation.definition.comment.bfp",
+					"patterns": [
+						{
+							"match": ";"
+						}
+					]
+				}
+			}
+		}
+	]
 }
