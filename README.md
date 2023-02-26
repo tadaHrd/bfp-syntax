@@ -1,6 +1,6 @@
 # Brainfuck+ Syntax
 
-<img src="" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/tadaHrd/bfp-syntax/master/images/logo.png" width="50" height="50" />
 
 This is a VSCode extension for Brainfuck+
 
