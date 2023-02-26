@@ -31,9 +31,14 @@ No known issues so far.
 
 ## Release Notes
 
-### 1.0.0
+### 0.0.1
 
 Initial release of Brainfuck+
+---
+
+### 0.0.2
+
+Fixed readme
 ---
 
 <!--
