@@ -4,15 +4,13 @@
 
 This is a VSCode extension for Brainfuck+
 
-If you want the compiler then you will need [this](https://compiler.link/bfp)
+If you want the compiler then you will need [this](https://github.com/tadaHrd/bfp-compiler/)
 
 ## Features
 
 ### Sample code
 
 <img alt="Sample code" src="https://raw.githubusercontent.com/tadaHrd/bfp-syntax/master/images/sample_code.png"></img>
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
 
 ## Requirements
 
