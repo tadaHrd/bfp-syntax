@@ -1,6 +1,6 @@
 # Brainfuck+ Syntax
 
-<img src="images/bfp.svg" width="50" height="50"></img>
+<img src="/images/logo.svg" width="50" height="50"></img>
 
 This is a [VSCode extension](https://extension.link/bfp) for Brainfuck+
 
@@ -10,7 +10,7 @@ If you want the compiler then you will need [this](https://compiler.link/bfp)
 
 ### Sample code
 
-![BF+ sample code](images/BFP.png)
+![BF+ sample code](/images/sample_code.png)
 
 > Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
 
