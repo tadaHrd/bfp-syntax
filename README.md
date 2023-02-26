@@ -4,6 +4,8 @@
 
 This is a [VSCode extension](https://extension.link/bfp) for Brainfuck+
 
+If you want the compiler then you will need [this](https://compiler.link/bfp)
+
 ## Features
 
 ### Sample code
