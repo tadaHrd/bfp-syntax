@@ -1,8 +1,8 @@
 # Brainfuck+ Syntax
 
-<img src="/images/logo.svg" width="50" height="50"></img>
+<img src="" width="50" height="50" />
 
-This is a [VSCode extension](https://extension.link/bfp) for Brainfuck+
+This is a VSCode extension for Brainfuck+
 
 If you want the compiler then you will need [this](https://compiler.link/bfp)
 
@@ -10,7 +10,7 @@ If you want the compiler then you will need [this](https://compiler.link/bfp)
 
 ### Sample code
 
-![BF+ sample code](/images/sample_code.png)
+<img alt="Sample code" src="https://raw.githubusercontent.com/tadaHrd/bfp-syntax/master/images/sample_code.png"></img>
 
 > Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
 
@@ -20,13 +20,12 @@ No requirements.
 
 ## Extension Settings
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+This extension has 0 settings.
 
-For example:
-
-This extension contributes the following settings:
+<!--This extension contributes the following settings:
 
 * `myExtension.enable`: Enable/disable this extension.
+-->
 
 ## Known Issues
 
