@@ -1,6 +1,6 @@
 # Brainfuck+ Syntax
 
-This is a VSCode extension for Brainfuck+
+This is a [VSCode extension](link to vscode extension) for Brainfuck+
 
 ## Features
 
