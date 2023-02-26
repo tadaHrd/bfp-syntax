@@ -1,6 +1,6 @@
-# bfp-syntax README
+# Brainfuck+ Syntax
 
-This is the README for your extension "bfp-syntax". After writing up a brief description, we recommend including the following sections.
+This is a VSCode extension for Brainfuck+
 
 ## Features
 
