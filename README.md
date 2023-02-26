@@ -1,5 +1,7 @@
 # Brainfuck+ Syntax
 
+<img src"images/bfp.svg" width="50" height="50"></img>
+
 This is a [VSCode extension](https://extension.link/bfp) for Brainfuck+
 
 ## Features
