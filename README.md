@@ -41,6 +41,11 @@ Initial release of Brainfuck+
 Fixed readme
 ---
 
+### 0.0.3
+
+Changed comments to be "//" and "/* */"
+---
+
 <!--
 ## Working with Markdown
 

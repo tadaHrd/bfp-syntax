@@ -33,7 +33,7 @@
 		},
 		{
 			"name": "comment.bfp",
-			"begin": ";",
+			"begin": "//",
 			"end": "(?<!\\S)$",
 			"captures": {
 				"0": {
@@ -45,6 +45,22 @@
 					]
 				}
 			}
+		},
+		{
+			"begin": "/\\*",
+			"beginCaptures": {
+				"0": {
+				"name": "punctuation.definition.comment.my-language"
+				}
+			},
+			"end": "\\*/",
+			"endCaptures": {
+				"0": {
+				"name": "punctuation.definition.comment.my-language"
+				}
+			},
+			"name": "comment.block.my-language",
+			"patterns": []
 		}
 	]
 }
