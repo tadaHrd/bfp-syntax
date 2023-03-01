@@ -46,6 +46,11 @@ Fixed readme
 Changed comments to be "//" and "/* */"
 ---
 
+### 0.0.4
+
+Added escape sequences
+---
+
 <!--
 ## Working with Markdown
 

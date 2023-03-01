@@ -25,11 +25,25 @@
 		{
 			"name": "string.quoted.double.bfp",
 			"begin": "\"",
-			"end": "\""
+			"end": "\"",
+			"patterns": [
+				{
+					"name": "constant.character.escape.bfp",
+					"match": "\\\\."
+				},
+				{
+					"name": "constant.character.escape.newline.bfp",
+					"match": "\\\\n"
+				},
+				{
+					"name": "constant.character.escape.quote.bfp",
+					"match": "\\\""
+				}
+			]
 		},
 		{
-			"match": "\\bp\\b",
-			"name": "keyword.control.bfp"
+			"name": "keyword.control.bfp",
+			"match": "\\bp\\b"
 		},
 		{
 			"name": "comment.bfp",
